@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TributosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EntitiesConsultas" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN" ReturnType="Collection(TributosModel.SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN_Result)">
+      <Parameter Name="FANOMCONTR" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN" ReturnType="Collection(TributosModel.SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN_Result)">
+      <Parameter Name="FANRODOCU" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CONSULTA_CTATE_TO_TOUCHSCREEM" ReturnType="Collection(TributosModel.SP_CONSULTA_CTATE_TO_TOUCHSCREEM_Result)">
+      <Parameter Name="FACODCONTR" Mode="In" Type="String" />
+      <Parameter Name="FACODTRIBU" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_CONSULTA_REQTUPA" ReturnType="Collection(String)">
+      <Parameter Name="FACODTRIBU" Mode="In" Type="String" />
+      <Parameter Name="FATIPOPERA" Mode="In" Type="String" />
+      <Parameter Name="FATIPCONTRIB" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_INSERTAR_RECIBO_PAGO_A_CUENTA_IP_RENTAS">
+      <Parameter Name="FAANOTRIBU" Mode="In" Type="String" />
+      <Parameter Name="FACODCONTR" Mode="In" Type="String" />
+      <Parameter Name="FAPERIODO" Mode="In" Type="String" />
+      <Parameter Name="FANRORECIB" Mode="In" Type="String" />
+      <Parameter Name="FNIMP01" Mode="In" Type="Decimal" />
+      <Parameter Name="fngasadmin" Mode="In" Type="Decimal" />
+      <Parameter Name="MONTO" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="SP_PAGO_A_CUENTA_IP">
+      <Parameter Name="FACODCONTR" Mode="In" Type="String" />
+      <Parameter Name="MONTO" Mode="In" Type="Decimal" />
+    </FunctionImport>
+    <FunctionImport Name="SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN" ReturnType="Collection(TributosModel.SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN_Result)">
+      <Parameter Name="FACODCONTR" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN_Result">
+    <Property Type="String" Name="FACODCONTR" Nullable="false" MaxLength="7" />
+    <Property Type="String" Name="FANOMCONTR" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="FANRODOCUM" Nullable="true" MaxLength="12" />
+  </ComplexType>
+  <ComplexType Name="SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN_Result">
+    <Property Type="String" Name="FACODCONTR" Nullable="false" MaxLength="7" />
+    <Property Type="String" Name="FANOMCONTR" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="FANRODOCUM" Nullable="true" MaxLength="12" />
+  </ComplexType>
+  <ComplexType Name="SP_CONSULTA_CTATE_TO_TOUCHSCREEM_Result">
+    <Property Type="String" Name="FACODCONTR" Nullable="false" MaxLength="7" />
+    <Property Type="String" Name="FANRODOCUM" Nullable="false" MaxLength="12" />
+    <Property Type="String" Name="FANOMCONTR" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="FAANOTRIBU" Nullable="false" MaxLength="4" />
+    <Property Type="String" Name="FAPERIODO" Nullable="false" MaxLength="2" />
+    <Property Type="String" Name="FACODTRIBU" Nullable="false" MaxLength="2" />
+    <Property Type="String" Name="FAANEXO" Nullable="true" MaxLength="4" />
+    <Property Type="Decimal" Name="FNIMP01" Nullable="true" Precision="12" Scale="2" />
+    <Property Type="Decimal" Name="FNGASADMIN" Nullable="true" Precision="12" Scale="2" />
+    <Property Type="Decimal" Name="FNMORA" Nullable="true" Precision="12" Scale="2" />
+    <Property Type="Decimal" Name="SUBTOTAL" Nullable="true" Precision="38" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN_Result">
+    <Property Type="String" Name="FACODCONTR" Nullable="false" MaxLength="7" />
+    <Property Type="String" Name="FANOMCONTR" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="FANRODOCUM" Nullable="true" MaxLength="12" />
+  </ComplexType>
+</Schema>

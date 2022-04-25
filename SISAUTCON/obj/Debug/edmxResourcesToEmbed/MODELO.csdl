@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TributosModel_EstadosCuenta" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TributosEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SP_RENTAS_CARTA_RESUMEN_ESTADOCUENTA">
+      <Parameter Name="vestado" Mode="In" Type="String" />
+      <Parameter Name="vfacodcontr" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_RENTAS_CONSULTA_CUENTA_CORRIENTE">
+      <Parameter Name="lsp_facodcontr" Mode="In" Type="String" />
+      <Parameter Name="lsp_faanoini" Mode="In" Type="String" />
+      <Parameter Name="lsp_faanofin" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>

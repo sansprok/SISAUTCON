@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TributosModel1StoreContainer" CdmEntityContainer="TributosEntities1">
+    <FunctionImportMapping FunctionImportName="SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN" FunctionName="TributosModel1.Store.SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TributosModel1.SP_BUSQUEDA_POR_NOMBRE_TOUCHSCREEN_Result">
+          <ScalarProperty Name="FACODCONTR" ColumnName="FACODCONTR" />
+          <ScalarProperty Name="FANOMCONTR" ColumnName="FANOMCONTR" />
+          <ScalarProperty Name="FANRODOCUM" ColumnName="FANRODOCUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN" FunctionName="TributosModel1.Store.SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TributosModel1.SP_BUSQUEDA_POR_NUMERO_DE_DOCUMENTO_TOUCHSCREEN_Result">
+          <ScalarProperty Name="FACODCONTR" ColumnName="FACODCONTR" />
+          <ScalarProperty Name="FANOMCONTR" ColumnName="FANOMCONTR" />
+          <ScalarProperty Name="FANRODOCUM" ColumnName="FANRODOCUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_CONSULTA_REQTUPA" FunctionName="TributosModel1.Store.SP_CONSULTA_REQTUPA" />
+    <FunctionImportMapping FunctionImportName="SP_CONSULTACTATE_TO_TOUCHSCREEM" FunctionName="TributosModel1.Store.SP_CONSULTACTATE_TO_TOUCHSCREEM">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TributosModel1.SP_CONSULTACTATE_TO_TOUCHSCREEM_Result">
+          <ScalarProperty Name="FACODCONTR" ColumnName="FACODCONTR" />
+          <ScalarProperty Name="FANRODOCUM" ColumnName="FANRODOCUM" />
+          <ScalarProperty Name="FANOMCONTR" ColumnName="FANOMCONTR" />
+          <ScalarProperty Name="FAANOTRIBU" ColumnName="FAANOTRIBU" />
+          <ScalarProperty Name="FAPERIODO" ColumnName="FAPERIODO" />
+          <ScalarProperty Name="FACODTRIBU" ColumnName="FACODTRIBU" />
+          <ScalarProperty Name="FNIMP01" ColumnName="FNIMP01" />
+          <ScalarProperty Name="FNIMP02" ColumnName="FNIMP02" />
+          <ScalarProperty Name="FNIMP03" ColumnName="FNIMP03" />
+          <ScalarProperty Name="FNIMP04" ColumnName="FNIMP04" />
+          <ScalarProperty Name="FNGASADMIN" ColumnName="FNGASADMIN" />
+          <ScalarProperty Name="FNMORA" ColumnName="FNMORA" />
+          <ScalarProperty Name="SUBTOTAL" ColumnName="SUBTOTAL" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_INSERTAR_RECIBO_PAGO_A_CUENTA_IP_RENTAS" FunctionName="TributosModel1.Store.SP_INSERTAR_RECIBO_PAGO_A_CUENTA_IP_RENTAS" />
+    <FunctionImportMapping FunctionImportName="SP_PAGO_A_CUENTA_IP" FunctionName="TributosModel1.Store.SP_PAGO_A_CUENTA_IP" />
+    <FunctionImportMapping FunctionImportName="SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN" FunctionName="TributosModel1.Store.SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TributosModel1.SP_RECUPERAR_POR_CODIGO_TOUCHSCREEN_Result">
+          <ScalarProperty Name="FACODCONTR" ColumnName="FACODCONTR" />
+          <ScalarProperty Name="FANOMCONTR" ColumnName="FANOMCONTR" />
+          <ScalarProperty Name="FANRODOCUM" ColumnName="FANRODOCUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

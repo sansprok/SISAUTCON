@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TributosModel_EstadosCuentaStoreContainer" CdmEntityContainer="TributosEntities">
+    <FunctionImportMapping FunctionImportName="SP_RENTAS_CARTA_RESUMEN_ESTADOCUENTA" FunctionName="TributosModel_EstadosCuenta.Store.SP_RENTAS_CARTA_RESUMEN_ESTADOCUENTA" />
+    <FunctionImportMapping FunctionImportName="SP_RENTAS_CONSULTA_CUENTA_CORRIENTE" FunctionName="TributosModel_EstadosCuenta.Store.SP_RENTAS_CONSULTA_CUENTA_CORRIENTE" />
+  </EntityContainerMapping>
+</Mapping>

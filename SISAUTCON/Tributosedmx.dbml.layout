@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Tributosedmx">
+  <DataContextMoniker Name="/TributosedmxDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc274104-199d-4d91-b700-6cf748518843" absoluteBounds="5.375, 2.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/TributosedmxDataContext/REQTUPA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ca8f8a5-a57d-4e65-b6ec-9cc672f8fac4" absoluteBounds="5.39, 3.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

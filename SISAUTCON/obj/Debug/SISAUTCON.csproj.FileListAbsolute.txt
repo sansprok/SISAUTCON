@@ -1,0 +1,679 @@
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\USUARIO\source\repos\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Miki\Documents\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\municusco\Documents\Visual Studio 2017\Projects\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredialOtros.resources
+C:\Users\Miki\Desktop\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicularOtros.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicularOtros.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredialOtros.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\municusco\Desktop\touch\v1\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicularOtros.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredialOtros.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuenta.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaCodigoDocIdentidad.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaNombre.resources
+C:\Users\Miki\Desktop\touch\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaSeleccion.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialIngresarMontoPlaca.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialIngresarMonto.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialNombre.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialCodigoDocIdentidad.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcial.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuenta.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaCodigoDocIdentidad.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaNombre.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialSeleccion.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaSeleccion.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicularOtros.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredialOtros.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBuscando.resources
+C:\Users\municusco\Desktop\v6\v5\VERSION NUEVA\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRecuperandoInformacion.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe.config
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Design.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\EnvDTE.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\stdole.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.ConsultaFiltro.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Consultas.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Form1.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormAlcabala.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRecuperandoInformacion.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormConsultas.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialIngresarMontoPlaca.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialIngresarMonto.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialNombre.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialCodigoDocIdentidad.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcial.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuenta.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaCodigoDocIdentidad.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaNombre.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormPagoParcialSeleccion.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormEstadosCuentaSeleccion.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredial.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBeneficioTributario.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicularOtros.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoVehicular.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormImpuestoPredialOtros.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormRenovacion.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.FormBuscando.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Principal.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Properties.Resources.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.Requisitos.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetalles.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.RequisitosDetallesVistaPrevia.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.VistaPreviaTicket.resources
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.csproj.CopyComplete
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.exe
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\SISAUTCON.pdb
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\RdlCompile.cache
+C:\Users\Miki\Desktop\SISAUTCON\SISAUTCON\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ReportSever" Class="TributosedmxDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.16.4.1;Initial Catalog=ReportSever;User ID=rentas" SettingsObjectName="SISAUTCON.Properties.Settings" SettingsPropertyName="ReportSeverConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.REQTUPA" Member="REQTUPA">
+    <Type Name="REQTUPA">
+      <Column Name="FNIDREQ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FADESCRIPCION" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="FACODTRIBU" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FATIPCONTRIB" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FATIPOPERA" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="FADELETE" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FAOPERADOR" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="FDINGRESO" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FDMODIFIC" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

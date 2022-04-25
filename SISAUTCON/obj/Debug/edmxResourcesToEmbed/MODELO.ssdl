@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TributosModel_EstadosCuenta.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="SP_RENTAS_CARTA_RESUMEN_ESTADOCUENTA" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="vestado" Type="char" Mode="In" />
+    <Parameter Name="vfacodcontr" Type="char" Mode="In" />
+  </Function>
+  <Function Name="SP_RENTAS_CONSULTA_CUENTA_CORRIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="lsp_facodcontr" Type="char" Mode="In" />
+    <Parameter Name="lsp_faanoini" Type="char" Mode="In" />
+    <Parameter Name="lsp_faanofin" Type="char" Mode="In" />
+  </Function>
+  <EntityContainer Name="TributosModel_EstadosCuentaStoreContainer" />
+</Schema>
